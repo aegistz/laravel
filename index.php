@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+    <?php echo 'xxxxxx'; ?>
+    <br>
     sdfsdfd
 </body>
 </html>
